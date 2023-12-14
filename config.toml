@@ -1,0 +1,4 @@
+baseURL = 'https://breakingbad.org/'
+languageCode = 'en-us'
+title = 'Why I love Breaking Bad'
+theme = 'ananke'
